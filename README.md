@@ -64,28 +64,28 @@ The dataset contains the following key features:
 ## Key Visualisations
 
 ### Monthly Charges by Churn Status
-visuals/monthly_charges_by_churn.png
+[Monthly Charges by Churn](visuals/monthly_charges_by_churn.png)
 
 **Insight:** Customers who churn occupy more of the higher-charge range (up to ~120), suggesting that higher-paying customers are more price-sensitive and at greater risk of leaving.
 
 ---
 
 ### Churn Rate by Contract Type
-visuals/churn_rate_by_contract.png
+![Churn Rate by Contract](visuals/churn_rate_by_contract.png)
 
 **Insight:** Month-to-month customers have the highest churn rate (~40%+), compared to ~10% (one-year) and ~5% (two-year), making contract duration the strongest driver of customer retention.
 
 ---
 
 ### Distribution of Tenure by Churn Status
-visuals/churn_by_tenure.png
+![Churn by Tenure](visuals/churn_by_tenure.png)
 
 **Insight:** Most churn occurs within the first 0–10 months, indicating that early customer lifecycle engagement is critical for reducing churn.
 
 ---
 
 ### Revenue at Risk by Contract Type
-visuals/revenue_at_risk.png
+![Revenue at Risk](visuals/revenue_at_risk.png)
 
 **Insight:** Month-to-month customers account for the highest revenue at risk (~30k+), while long-term contracts contribute minimal churn-related revenue losses.
 
