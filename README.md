@@ -64,7 +64,7 @@ The dataset contains the following key features:
 ## Key Visualisations
 
 ### Monthly Charges by Churn Status
-[Monthly Charges by Churn](visuals/monthly_charges_by_churn.png)
+![Monthly Charges by Churn](visuals/monthly_charges_by_churn.png)
 
 **Insight:** Customers who churn occupy more of the higher-charge range (up to ~120), suggesting that higher-paying customers are more price-sensitive and at greater risk of leaving.
 
@@ -83,6 +83,7 @@ The dataset contains the following key features:
 **Insight:** Most churn occurs within the first 0–10 months, indicating that early customer lifecycle engagement is critical for reducing churn.
 
 ---
+
 
 ### Revenue at Risk by Contract Type
 ![Revenue at Risk](visuals/revenue_at_risk.png)
